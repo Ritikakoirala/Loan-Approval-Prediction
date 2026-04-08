@@ -1,7 +1,7 @@
 # Loan Approval Prediction System
 
 ## Project Overview
-This project is a **Loan Approval Prediction System** built using **Python** and **Logistic Regression**.  
+This project is a **Loan Approval Prediction System** built using **Random forest** and **Logistic Regression**.  
 The goal is to predict whether a loan application will be **Approved** or **Rejected** based on applicant features like income, assets, CIBIL score, education, and employment status.
 
 This project includes:
