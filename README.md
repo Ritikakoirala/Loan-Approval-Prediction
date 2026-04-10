@@ -10,9 +10,6 @@ This project includes:
 - Model training and evaluation using Logistic Regression
 - A demo-approved case prediction
 - Saving the model and scaler for deployment
-
----
-
 ## Dataset
 - **File:** `loan_dataset.csv`  
 - **Rows:** 4269  
